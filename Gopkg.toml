@@ -21,5 +21,5 @@
 #  version = "2.4.0"
 
 [metadata.heroku]
-    root-package='github.com/heckfyxe/files-cloud'
+    root-package='files-cloud'
     go-version="go1.10"
