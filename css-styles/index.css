@@ -1,0 +1,32 @@
+html {
+    background-color: #edfbf4;
+    margin-left: 1%;
+}
+
+.file-div {
+    overflow: hidden;
+    margin-top: 5px;
+    border: 2px solid #8f8f8f;
+    background-color: #eeeeee;
+    border-radius: 10px;
+    width: 80%;
+    padding: 10px 4px 1px 10px;
+    float: start;
+}
+
+div .file-size {
+    float: right;
+    font-style: italic;
+    font-family: aakar sans-serif;
+    color: #b3beb9;
+    margin-top: 2px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+form {
+    margin-top: 10px;
+}
